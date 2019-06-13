@@ -1,1 +1,1 @@
-Interview tasks-automation test in Selenium with Java
+Interview tasks-automatated testing using Selenium WebDriver and Java.
